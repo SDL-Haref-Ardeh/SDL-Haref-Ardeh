@@ -1,0 +1,37 @@
+body {
+  margin-top: 5rem;
+  background-color: #f8f9fa;
+  font-family: "Times New Roman", Times, serif;
+}
+.navbar-brand img {
+  max-height: 40px;
+  width: auto;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.card {
+  margin: 15px 0;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+}
+
+.buy-ticket-btn {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}

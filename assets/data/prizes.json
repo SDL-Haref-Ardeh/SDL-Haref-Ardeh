@@ -1,0 +1,791 @@
+[
+    {
+        "ID": 1,
+        "Name": "Fil Magique",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Pouch + Tote Bag",
+        "Logo": "fil-magique.png"
+    },
+    {
+        "ID": 2,
+        "Name": "Encre Magique",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Puzzle + Mug",
+        "Logo": "ancre-magique.png"
+    },
+    {
+        "ID": 3,
+        "Name": "Vision Craft",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Customized 3d Print Model",
+        "Logo": "vision-craft.png"
+    },
+    {
+        "ID": 4,
+        "Name": "CJ Sports",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": ""
+    },
+    {
+        "ID": 5,
+        "Name": "Pescador",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Sac a Couchage"
+    },
+    {
+        "ID": 6,
+        "Name": "Johns Pizza",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "",
+        "Prize": "Dinner for 2"
+    },
+    {
+        "ID": 7,
+        "Name": "Muscador",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Rectangle Cake"
+    },
+    {
+        "ID": 8,
+        "Name": "ML Brands",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "Michael Kors Men Wallet",
+        "isFeatured": true
+    },
+    {
+        "ID": 9,
+        "Name": "Sako Socks",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "30$"
+    },
+    {
+        "ID": 10,
+        "Name": "Sako Unlimited",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "50$"
+    },
+    {
+        "ID": 11,
+        "Name": "Jewel By Joya",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "70$",
+        "isFeatured": true
+    },
+    {
+        "ID": 12,
+        "Name": "Salt & Pepper",
+        "G/V": "V",
+        "Number": 3,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Nuts / Spices / Grains"
+    },
+    {
+        "ID": 13,
+        "Name": "Mickeal Style",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Men Tshirt"
+    },
+    {
+        "ID": 14,
+        "Name": "Fawk El Rih",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "4 Persons Lunch",
+        "isFeatured": true
+    },
+    {
+        "ID": 15,
+        "Name": "Spring Laundry",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "10$"
+    },
+    {
+        "ID": 16,
+        "Name": "Trivo Streetwear",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Men Tshirt"
+    },
+    {
+        "ID": 17,
+        "Name": "Flame Batroun",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Lunch for 2 / Dinner for 2"
+    },
+    {
+        "ID": 18,
+        "Name": "Lamaria Accessories",
+        "G/V": "G",
+        "Number": 4,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Accessorie Bags"
+    },
+    {
+        "ID": 19,
+        "Name": "Ayla Kids Wear",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "25$"
+    },
+    {
+        "ID": 20,
+        "Name": "The Craving House",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Pancake + Crepe / Crepe + Mini Pancake Balls"
+    },
+    {
+        "ID": 21,
+        "Name": "Papi's Taco",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "10$"
+    },
+    {
+        "ID": 22,
+        "Name": "DAL Dream And Love",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Balance Board"
+    },
+    {
+        "ID": 23,
+        "Name": "KidzHub",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Hat and Bag for Girls"
+    },
+    {
+        "ID": 24,
+        "Name": "Handknitting By Clara",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "30$"
+    },
+    {
+        "ID": 25,
+        "Name": "Slaps",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Lunch or Dinner for 2"
+    },
+    {
+        "ID": 26,
+        "Name": "Al Charki Zgharta",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Lunch or Dinner for 2"
+    },
+    {
+        "ID": 27,
+        "Name": "Un Peu De Perles",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "10$"
+    },
+    {
+        "ID": 28,
+        "Name": "Jneid Cell",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "20$"
+    },
+    {
+        "ID": 29,
+        "Name": "Sugar Mad",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": ""
+    },
+    {
+        "ID": 30,
+        "Name": "Coiffeur Charbel (3a2id)",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Haircut + Mask"
+    },
+    {
+        "ID": 31,
+        "Name": "Mr Chicken",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "2 Shawarma"
+    },
+    {
+        "ID": 32,
+        "Name": "Mooajanet Deeb",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Breakfast for 2"
+    },
+    {
+        "ID": 33,
+        "Name": "Makeup by Rita Frayfer",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "Makeup / Lashes Extension"
+    },
+    {
+        "ID": 34,
+        "Name": "Cover Up",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "Tshirt"
+    },
+    {
+        "ID": 35,
+        "Name": "Turbo Tuk",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Tour for 1 hour"
+    },
+    {
+        "ID": 36,
+        "Name": "Café Ayrouth",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Sahlab for 2"
+    },
+    {
+        "ID": 37,
+        "Name": "Elie Saliba",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Car Wash"
+    },
+    {
+        "ID": 38,
+        "Name": "Capitano",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "50$ Lunch for 2 (Reservation Required)",
+        "isFeatured": true
+    },
+    {
+        "ID": 39,
+        "Name": "Kheir Trading",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "30$"
+    },
+    {
+        "ID": 40,
+        "Name": "Bob Shallouf",
+        "G/V": "V",
+        "Number": 3,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Haircut"
+    },
+    {
+        "ID": 41,
+        "Name": "Ayoub Sports",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Football Ball"
+    },
+    {
+        "ID": 42,
+        "Name": "Best Kitchen",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Gadget"
+    },
+    {
+        "ID": 43,
+        "Name": "Photo Pierrot",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "Photo Shoot"
+    },
+    {
+        "ID": 44,
+        "Name": "Vito",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Cap"
+    },
+    {
+        "ID": 45,
+        "Name": "Moura",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Tshirt"
+    },
+    {
+        "ID": 46,
+        "Name": "Saroufim Shoes",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Women Sandals"
+    },
+    {
+        "ID": 47,
+        "Name": "Michel Yammine",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "20% Discount"
+    },
+    {
+        "ID": 48,
+        "Name": "Tony Makary",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Tshirt"
+    },
+    {
+        "ID": 49,
+        "Name": "Photo Rodrique",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "2 Photos Frames"
+    },
+    {
+        "ID": 50,
+        "Name": "Mansour",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Shirt"
+    },
+    {
+        "ID": 51,
+        "Name": "Elisee",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "4 Fruit Cocktails"
+    },
+    {
+        "ID": 52,
+        "Name": "Ozone",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Tshirt"
+    },
+    {
+        "ID": 53,
+        "Name": "Halwayet Bechara",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "1Kg Maamoul"
+    },
+    {
+        "ID": 54,
+        "Name": "Clarelle",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "No",
+        "Prize": "Perfume"
+    },
+    {
+        "ID": 55,
+        "Name": "Naft Plus",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "20$ Supermarket / 20$ Benzine"
+    },
+    {
+        "ID": 56,
+        "Name": "Samir",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Tshirt for Kids"
+    },
+    {
+        "ID": 57,
+        "Name": "Appolonia",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "15$"
+    },
+    {
+        "ID": 58,
+        "Name": "Cups and Dogs",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "15$"
+    },
+    {
+        "ID": 59,
+        "Name": "Bobay",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "1 Smoothie + 1 Iced Tea (Each)"
+    },
+    {
+        "ID": 60,
+        "Name": "DJ Bibb",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "3 DJ Sessions"
+    },
+    {
+        "ID": 61,
+        "Name": "Fouad Jer Douaihy",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Sayniyit Helu"
+    },
+    {
+        "ID": 62,
+        "Name": "Alfredo",
+        "G/V": "V",
+        "Number": 4,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "4 vouchers(Each voucher 10$)"
+    },
+    {
+        "ID": 63,
+        "Name": "Yammine",
+        "G/V": "G",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "2 tshirts"
+    },
+    {
+        "ID": 64,
+        "Name": "C7",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "2drinks"
+    },
+    {
+        "ID": 65,
+        "Name": "Los Amigos",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "Lunch for 2(1Pizza+2 burger+ 1 fries+ 2 pepsi)"
+    },
+    {
+        "ID": 66,
+        "Name": "Padova",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "2 vouchers 10$ each"
+    },
+    {
+        "ID": 67,
+        "Name": "Power Up",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Gaming mouse"
+    },
+    {
+        "ID": 68,
+        "Name": "Pochon",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "Gateaux Goache 20cm"
+    },
+    {
+        "ID": 69,
+        "Name": "La Cania",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "2 Persons Entrance (Each)"
+    },
+    {
+        "ID": 70,
+        "Name": "Paddel Rashiine",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "1h Session"
+    },
+    {
+        "ID": 71,
+        "Name": "Vitality",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "1 Month Free"
+    },
+    {
+        "ID": 72,
+        "Name": "The Wateroof",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "4 Persons Entrance + 1 Bottle"
+    },
+    {
+        "ID": 73,
+        "Name": "Silverback Iron Paradise",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "No",
+        "Prize": "1 Month Free"
+    },
+    {
+        "ID": 74,
+        "Name": "Ward w Habak",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "Yes",
+        "Prize": "4 Persons Voucher"
+    },
+    {
+        "ID": 75,
+        "Name": "Voda",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "A",
+        "Require Voucher": "Yes",
+        "Prize": "4 Persons Table + 1 Bottle / 2 Persons Bar"
+    },
+    {
+        "ID": 76,
+        "Name": "Ehden Padel",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "",
+        "Require Voucher": "Yes",
+        "Prize": "1 free session"
+    },
+    {
+        "ID": 77,
+        "Name": "Overdose",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "",
+        "Require Voucher": "Yes",
+        "Prize": "2 pancakes 1 crepe"
+    },
+    {
+        "ID": 78,
+        "Name": "GCS",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "No",
+        "Prize": "Genius EasyPen (M406W) 4 x 6 Wireless Graphic Tablet With Battery-Free Cordless Pen - Black / Genius (KMS-U130) Wired Keyboard + Mouse + Speakers combo; US/AR Layout - 6W - Black / Kingston (DTX/128GB) 128Gb DataTraveller Exodia USB3.2 Flash Drive - Black / Razer (RZ84-00520100-B1G1) Tron Wired Gaming Mouse and MousePad Bundle - Black/Blue / Fantech (P31) Gaming Power Pack - 3in1 Bundle Keyboard,Mouse,Mousepad- Black / TP-Link (Tapo-C200) Pan/Tilt Home Security Wi-Fi Camera; 1080p Video - White",
+        "isFeatured": true,
+        "Logo": "gcs.png"
+    },
+    {
+        "ID": 79,
+        "Name": "GCS",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "No",
+        "Prize": "Doogee (U10) Tablet 10.1 Quad Core RK3566, 9Gb RAM, 128Gb Storage - Green",
+        "isFeatured": true,
+        "Logo": "Doogee Tablet.png"
+    },
+    {
+        "ID": 80,
+        "Name": "Issa Haddad",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "No",
+        "Prize": "Gold Necklace",
+        "isFeatured": true,
+        "Logo": "Issa-Haddad.png"
+    },
+    {
+        "ID": 81,
+        "Name": "GCS",
+        "G/V": "G",
+        "Number": 1,
+        "Class": "A",
+        "Require Voucher": "No",
+        "Prize": "Acer (A3SP14-31PT) Aspire 3 14'' WUXGA x360 i3-N305, 8Gb, 256Gb - Silver",
+        "isFeatured": true,
+        "Logo": "Acer-Laptop.png"
+    },
+    {
+        "ID": 82,
+        "Name": "Chedid Library",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "2x 500000L.L"
+    },
+    {
+        "ID": 83,
+        "Name": "Sunsip Ehden",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "2x Open Wings And Beer"
+    },
+    {
+        "ID": 84,
+        "Name": "Elcada",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Kids pyjama"
+    },
+    {
+        "ID": 85,
+        "Name": "Outlet al lebnene",
+        "G/V": "V",
+        "Number": 3,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "3 Gifts"
+    },
+    {
+        "ID": 86,
+        "Name": "Khales",
+        "G/V": "V",
+        "Number": 4,
+        "Class": "C",
+        "Require Voucher": "Yes",
+        "Prize": "Discount on All Jams, Vinegars and Frozen Food"
+    }
+]
