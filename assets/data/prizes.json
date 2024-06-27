@@ -320,7 +320,7 @@
         "Class": "C",
         "Require Voucher": "Yes",
         "Prize": "Breakfast for 2",
-        "Logo": "mooajanet-deeb.png"
+        "Logo": "Mou3ajanet Deeb.png"
     },
     {
         "ID": 33,
@@ -804,7 +804,7 @@
         "Require Voucher": "No",
         "Prize": "Gold Necklace",
         "isFeatured": true,
-        "Logo": "Issa-Haddad.png"
+        "Logo": "issa-haddad.png"
     },
     {
         "ID": 81,
