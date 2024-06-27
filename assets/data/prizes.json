@@ -27,7 +27,7 @@
         "Class": "C",
         "Require Voucher": "Yes",
         "Prize": "Customized 3d Print Model",
-        "Logo": "vision-craft.png"
+        "Logo": "visioncraft.jpg"
     },
     {
         "ID": 4,
@@ -36,7 +36,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": ""
+        "Prize": "",
+        "Logo": "cj-sports.png"
     },
     {
         "ID": 5,
@@ -45,7 +46,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Sac a Couchage"
+        "Prize": "Sac a Couchage",
+        "Logo": "pescador.png"
     },
     {
         "ID": 6,
@@ -54,7 +56,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "",
-        "Prize": "Dinner for 2"
+        "Prize": "Dinner for 2",
+        "Logo": "johns-pizza.png"
     },
     {
         "ID": 7,
@@ -63,7 +66,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Rectangle Cake"
+        "Prize": "Rectangle Cake",
+        "Logo": "m'.png"
     },
     {
         "ID": 8,
@@ -73,7 +77,8 @@
         "Class": "A",
         "Require Voucher": "Yes",
         "Prize": "Michael Kors Men Wallet",
-        "isFeatured": true
+        "isFeatured": true,
+        "Logo": "maple-leaf-brands.png"
     },
     {
         "ID": 9,
@@ -82,7 +87,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "30$"
+        "Prize": "30$",
+        "Logo": "sako-socks.png"
     },
     {
         "ID": 10,
@@ -91,7 +97,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "50$"
+        "Prize": "50$",
+        "Logo": "sako-unlimited.png"
     },
     {
         "ID": 11,
@@ -101,7 +108,8 @@
         "Class": "A",
         "Require Voucher": "Yes",
         "Prize": "70$",
-        "isFeatured": true
+        "isFeatured": true,
+        "Logo": "jewel-by-joya.png"
     },
     {
         "ID": 12,
@@ -110,7 +118,8 @@
         "Number": 3,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Nuts / Spices / Grains"
+        "Prize": "Nuts / Spices / Grains",
+        "Logo": "salt-and-pepper.png"
     },
     {
         "ID": 13,
@@ -119,7 +128,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Men Tshirt"
+        "Prize": "Men Tshirt",
+        "Logo": "Mickeal Style.png"
     },
     {
         "ID": 14,
@@ -129,7 +139,8 @@
         "Class": "A",
         "Require Voucher": "Yes",
         "Prize": "4 Persons Lunch",
-        "isFeatured": true
+        "isFeatured": true,
+        "Logo": "fok-al-rih.png"
     },
     {
         "ID": 15,
@@ -138,7 +149,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "10$"
+        "Prize": "10$",
+        "Logo": "spring-laundry.jpg"
     },
     {
         "ID": 16,
@@ -147,7 +159,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Men Tshirt"
+        "Prize": "Men Tshirt",
+        "Logo": "trivo.png"
     },
     {
         "ID": 17,
@@ -156,7 +169,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Lunch for 2 / Dinner for 2"
+        "Prize": "Lunch for 2 / Dinner for 2",
+        "Logo": "flame.png"
     },
     {
         "ID": 18,
@@ -165,7 +179,8 @@
         "Number": 4,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Accessorie Bags"
+        "Prize": "Accessorie Bags",
+        "Logo": "lamaria-lb.png"
     },
     {
         "ID": 19,
@@ -174,7 +189,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "25$"
+        "Prize": "25$",
+        "Logo": "ayla.png"
     },
     {
         "ID": 20,
@@ -183,7 +199,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Pancake + Crepe / Crepe + Mini Pancake Balls"
+        "Prize": "Pancake + Crepe / Crepe + Mini Pancake Balls",
+        "Logo": "the-craving-house.png"
     },
     {
         "ID": 21,
@@ -192,7 +209,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "10$"
+        "Prize": "10$",
+        "Logo": "papis-tacos.png"
     },
     {
         "ID": 22,
@@ -201,7 +219,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Balance Board"
+        "Prize": "Balance Board",
+        "Logo": "dream-and-love.png"
     },
     {
         "ID": 23,
@@ -210,7 +229,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Hat and Bag for Girls"
+        "Prize": "Hat and Bag for Girls",
+        "Logo": "kidz-hub.png"
     },
     {
         "ID": 24,
@@ -219,7 +239,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "30$"
+        "Prize": "30$",
+        "Logo": "hand-kitting-by-clara.png"
     },
     {
         "ID": 25,
@@ -228,7 +249,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Lunch or Dinner for 2"
+        "Prize": "Lunch or Dinner for 2",
+        "Logo": "slaps.png"
     },
     {
         "ID": 26,
@@ -237,7 +259,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Lunch or Dinner for 2"
+        "Prize": "Lunch or Dinner for 2",
+        "Logo": "al-charky.png"
     },
     {
         "ID": 27,
@@ -246,7 +269,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "10$"
+        "Prize": "10$",
+        "Logo": "un-peu-de-perles.png"
     },
     {
         "ID": 28,
@@ -255,7 +279,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "20$"
+        "Prize": "20$",
+        "Logo": "jneid-cell.png"
     },
     {
         "ID": 29,
@@ -264,7 +289,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": ""
+        "Prize": "",
+        "Logo": "sugar-mad.png"
     },
     {
         "ID": 30,
@@ -273,7 +299,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Haircut + Mask"
+        "Prize": "Haircut + Mask",
+        "Logo": "Coiffeur-Charbel.png"
     },
     {
         "ID": 31,
@@ -282,7 +309,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "2 Shawarma"
+        "Prize": "2 Shawarma",
+        "Logo": "mr-chicken.png"
     },
     {
         "ID": 32,
@@ -291,7 +319,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Breakfast for 2"
+        "Prize": "Breakfast for 2",
+        "Logo": "mooajanet-deeb.png"
     },
     {
         "ID": 33,
@@ -300,7 +329,8 @@
         "Number": 2,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "Makeup / Lashes Extension"
+        "Prize": "Makeup / Lashes Extension",
+        "Logo": "rita-fryer.png"
     },
     {
         "ID": 34,
@@ -309,7 +339,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "Tshirt"
+        "Prize": "Tshirt",
+        "Logo": "c.png"
     },
     {
         "ID": 35,
@@ -318,7 +349,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Tour for 1 hour"
+        "Prize": "Tour for 1 hour",
+        "Logo": "Turbo Tuk.png"
     },
     {
         "ID": 36,
@@ -327,7 +359,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Sahlab for 2"
+        "Prize": "Sahlab for 2",
+        "Logo": "ayrouth.png"
     },
     {
         "ID": 37,
@@ -336,7 +369,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Car Wash"
+        "Prize": "Car Wash",
+        "Logo": "Elie Saliba.png"
     },
     {
         "ID": 38,
@@ -346,7 +380,8 @@
         "Class": "A",
         "Require Voucher": "Yes",
         "Prize": "50$ Lunch for 2 (Reservation Required)",
-        "isFeatured": true
+        "isFeatured": true,
+        "Logo": "capitano.png"
     },
     {
         "ID": 39,
@@ -355,7 +390,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "30$"
+        "Prize": "30$",
+        "Logo": "kheir-trading.png"
     },
     {
         "ID": 40,
@@ -364,7 +400,8 @@
         "Number": 3,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Haircut"
+        "Prize": "Haircut",
+        "Logo": "Bob Shallouf.png"
     },
     {
         "ID": 41,
@@ -373,7 +410,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Football Ball"
+        "Prize": "Football Ball",
+        "Logo": "ayoub-sport.png"
     },
     {
         "ID": 42,
@@ -382,7 +420,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Gadget"
+        "Prize": "Gadget",
+        "Logo": "best-kitchen.png"
     },
     {
         "ID": 43,
@@ -391,7 +430,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "Photo Shoot"
+        "Prize": "Photo Shoot",
+        "Logo": "photo-pierrot.png"
     },
     {
         "ID": 44,
@@ -400,7 +440,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Cap"
+        "Prize": "Cap",
+        "Logo": "Vito.png"
     },
     {
         "ID": 45,
@@ -409,7 +450,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Tshirt"
+        "Prize": "Tshirt",
+        "Logo": "moura.png"
     },
     {
         "ID": 46,
@@ -418,7 +460,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Women Sandals"
+        "Prize": "Women Sandals",
+        "Logo": "saroufin-shoes.png"
     },
     {
         "ID": 47,
@@ -427,7 +470,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "20% Discount"
+        "Prize": "20% Discount",
+        "Logo": "michel-yammine.png"
     },
     {
         "ID": 48,
@@ -436,16 +480,18 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Tshirt"
+        "Prize": "Tshirt",
+        "Logo": "tony-makary.png"
     },
     {
         "ID": 49,
-        "Name": "Photo Rodrique",
+        "Name": "Photo Rodrigue",
         "G/V": "G",
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "2 Photos Frames"
+        "Prize": "2 Photos Frames",
+        "Logo": "photo-rodrigue.png"
     },
     {
         "ID": 50,
@@ -454,7 +500,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Shirt"
+        "Prize": "Shirt",
+        "Logo": "mansour-stores.png"
     },
     {
         "ID": 51,
@@ -463,7 +510,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "4 Fruit Cocktails"
+        "Prize": "4 Fruit Cocktails",
+        "Logo": "Elisee.png"
     },
     {
         "ID": 52,
@@ -472,7 +520,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Tshirt"
+        "Prize": "Tshirt",
+        "Logo": "ozone.png"
     },
     {
         "ID": 53,
@@ -481,7 +530,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "1Kg Maamoul"
+        "Prize": "1Kg Maamoul",
+        "Logo": "bshara-sweets.png"
     },
     {
         "ID": 54,
@@ -490,7 +540,8 @@
         "Number": 1,
         "Class": "A",
         "Require Voucher": "No",
-        "Prize": "Perfume"
+        "Prize": "Perfume",
+        "Logo": "clarelle.png"
     },
     {
         "ID": 55,
@@ -499,7 +550,8 @@
         "Number": 2,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "20$ Supermarket / 20$ Benzine"
+        "Prize": "20$ Supermarket / 20$ Benzine",
+        "Logo": "naft-plus.png"
     },
     {
         "ID": 56,
@@ -508,7 +560,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Tshirt for Kids"
+        "Prize": "Tshirt for Kids",
+        "Logo": "samir.png"
     },
     {
         "ID": 57,
@@ -517,7 +570,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "15$"
+        "Prize": "15$",
+        "Logo": "appolonia.png"
     },
     {
         "ID": 58,
@@ -526,7 +580,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "15$"
+        "Prize": "15$",
+        "Logo": "cups-and-dogs.png"
     },
     {
         "ID": 59,
@@ -535,7 +590,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "1 Smoothie + 1 Iced Tea (Each)"
+        "Prize": "1 Smoothie + 1 Iced Tea (Each)",
+        "Logo": "bobay.png"
     },
     {
         "ID": 60,
@@ -544,7 +600,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "3 DJ Sessions"
+        "Prize": "3 DJ Sessions",
+        "Logo": "Dj-Bibb.png"
     },
     {
         "ID": 61,
@@ -553,7 +610,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Sayniyit Helu"
+        "Prize": "Sayniyit Helu",
+        "Logo": "fouad-doueihy.png"
     },
     {
         "ID": 62,
@@ -562,7 +620,8 @@
         "Number": 4,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "4 vouchers(Each voucher 10$)"
+        "Prize": "4 vouchers(Each voucher 10$)",
+        "Logo": "alfredo.png"
     },
     {
         "ID": 63,
@@ -571,7 +630,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "2 tshirts"
+        "Prize": "2 tshirts",
+        "Logo": "Yammine.png"
     },
     {
         "ID": 64,
@@ -580,7 +640,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "2drinks"
+        "Prize": "2drinks",
+        "Logo": "c7.png"
     },
     {
         "ID": 65,
@@ -589,7 +650,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "No",
-        "Prize": "Lunch for 2(1Pizza+2 burger+ 1 fries+ 2 pepsi)"
+        "Prize": "Lunch for 2(1Pizza+2 burger+ 1 fries+ 2 pepsi)",
+        "Logo": "los-amigos.png"
     },
     {
         "ID": 66,
@@ -598,7 +660,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "2 vouchers 10$ each"
+        "Prize": "2 vouchers 10$ each",
+        "Logo": "padova.png"
     },
     {
         "ID": 67,
@@ -607,7 +670,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Gaming mouse"
+        "Prize": "Gaming mouse",
+        "Logo": "power-up.png"
     },
     {
         "ID": 68,
@@ -616,16 +680,18 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "Gateaux Goache 20cm"
+        "Prize": "Gateaux Goache 20cm",
+        "Logo": "pochon.png"
     },
     {
         "ID": 69,
-        "Name": "La Cania",
+        "Name": "La Cana",
         "G/V": "V",
         "Number": 2,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "2 Persons Entrance (Each)"
+        "Prize": "2 Persons Entrance (Each)",
+        "Logo": "la-cana.png"
     },
     {
         "ID": 70,
@@ -634,7 +700,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "1h Session"
+        "Prize": "1h Session",
+        "Logo": "padel-club.png"
     },
     {
         "ID": 71,
@@ -643,7 +710,8 @@
         "Number": 2,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "1 Month Free"
+        "Prize": "1 Month Free",
+        "Logo": "vitality.png"
     },
     {
         "ID": 72,
@@ -652,7 +720,8 @@
         "Number": 1,
         "Class": "A",
         "Require Voucher": "Yes",
-        "Prize": "4 Persons Entrance + 1 Bottle"
+        "Prize": "4 Persons Entrance + 1 Bottle",
+        "Logo": "the-waterroof.png"
     },
     {
         "ID": 73,
@@ -661,7 +730,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "No",
-        "Prize": "1 Month Free"
+        "Prize": "1 Month Free",
+        "Logo": "silverback.png"
     },
     {
         "ID": 74,
@@ -670,7 +740,8 @@
         "Number": 1,
         "Class": "B",
         "Require Voucher": "Yes",
-        "Prize": "4 Persons Voucher"
+        "Prize": "4 Persons Voucher",
+        "Logo": "ward-w-habak.png"
     },
     {
         "ID": 75,
@@ -679,7 +750,8 @@
         "Number": 2,
         "Class": "A",
         "Require Voucher": "Yes",
-        "Prize": "4 Persons Table + 1 Bottle / 2 Persons Bar"
+        "Prize": "4 Persons Table + 1 Bottle / 2 Persons Bar",
+        "Logo": "voda.png"
     },
     {
         "ID": 76,
@@ -688,7 +760,8 @@
         "Number": 1,
         "Class": "",
         "Require Voucher": "Yes",
-        "Prize": "1 free session"
+        "Prize": "1 free session",
+        "Logo": "ehden-padel.png"
     },
     {
         "ID": 77,
@@ -697,7 +770,8 @@
         "Number": 1,
         "Class": "",
         "Require Voucher": "Yes",
-        "Prize": "2 pancakes 1 crepe"
+        "Prize": "2 pancakes 1 crepe",
+        "Logo": "overdose.png"
     },
     {
         "ID": 78,
@@ -706,7 +780,7 @@
         "Number": 1,
         "Class": "A",
         "Require Voucher": "No",
-        "Prize": "Genius EasyPen (M406W) 4 x 6 Wireless Graphic Tablet With Battery-Free Cordless Pen - Black / Genius (KMS-U130) Wired Keyboard + Mouse + Speakers combo; US/AR Layout - 6W - Black / Kingston (DTX/128GB) 128Gb DataTraveller Exodia USB3.2 Flash Drive - Black / Razer (RZ84-00520100-B1G1) Tron Wired Gaming Mouse and MousePad Bundle - Black/Blue / Fantech (P31) Gaming Power Pack - 3in1 Bundle Keyboard,Mouse,Mousepad- Black / TP-Link (Tapo-C200) Pan/Tilt Home Security Wi-Fi Camera; 1080p Video - White",
+        "Prize": "- Genius EasyPen (M406W) 4 x 6 Wireless Graphic Tablet With Battery-Free Cordless Pen - Black <br>- Genius (KMS-U130) Wired Keyboard + Mouse + Speakers combo; US/AR Layout - 6W - Black <br>- Kingston (DTX/128GB) 128Gb DataTraveller Exodia USB3.2 Flash Drive - Black <br>- Razer (RZ84-00520100-B1G1) Tron Wired Gaming Mouse and MousePad Bundle - Black/Blue <br>- Fantech (P31) Gaming Power Pack - 3in1 Bundle Keyboard,Mouse,Mousepad- Black <br>- TP-Link (Tapo-C200) Pan/Tilt Home Security Wi-Fi Camera; 1080p Video - White",
         "isFeatured": true,
         "Logo": "gcs.png"
     },
@@ -750,7 +824,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "2x 500000L.L"
+        "Prize": "2x 500000L.L",
+        "Logo": "chedid-library.png"
     },
     {
         "ID": 83,
@@ -759,7 +834,8 @@
         "Number": 2,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "2x Open Wings And Beer"
+        "Prize": "2x Open Wings And Beer",
+        "Logo": "sunsip.png"
     },
     {
         "ID": 84,
@@ -768,7 +844,8 @@
         "Number": 1,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Kids pyjama"
+        "Prize": "Kids pyjama",
+        "Logo": "elcada.png"
     },
     {
         "ID": 85,
@@ -777,7 +854,8 @@
         "Number": 3,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "3 Gifts"
+        "Prize": "3 Gifts",
+        "Logo": "outlet.png"
     },
     {
         "ID": 86,
@@ -786,6 +864,7 @@
         "Number": 4,
         "Class": "C",
         "Require Voucher": "Yes",
-        "Prize": "Discount on All Jams, Vinegars and Frozen Food"
+        "Prize": "Discount on All Jams, Vinegars and Frozen Food",
+        "Logo": "khales.jpg"
     }
 ]

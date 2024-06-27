@@ -1,6 +1,11 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const prizesContainer = document.getElementById("prizes");
-  const flyersContainer = document.getElementById("flyers");
+  const featuredPrizesContainer = document.getElementById(
+    "featured-prizes-container"
+  );
+  const otherPrizesContainer = document.getElementById(
+    "other-prizes-container"
+  );
+  const flyersContainer = document.getElementById("flyers-container");
   const flyerImages = ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"];
 
   function displayPrizes(prizes) {
@@ -24,20 +29,20 @@ document.addEventListener("DOMContentLoaded", function () {
                     </div>
                 `;
 
-        prizesContainer.appendChild(prizeCard);
+        featuredPrizesContainer.appendChild(prizeCard);
       });
     prizes
       .filter((prize) => !prize.isFeatured)
       .sort((a, b) => a.Class.localeCompare(b.Class))
       .forEach((prize) => {
         const prizeCard = document.createElement("div");
-        prizeCard.className = "col-md-6";
+        prizeCard.className = "col-lg-3 col-md-4 col-sm-6 col-12";
 
         prizeCard.innerHTML = `
                     <div class="card">
                         <img src="./assets/logos/${
                           prize.Logo
-                        }" class="card-img-top" alt="${prize.Name}">
+                        }" class="card-img-top img-fluid" alt="${prize.Name}">
                         <div class="card-body">
                             <h5 class="card-title">${prize.Name}</h5>
                             <p class="card-text">${prize.Prize || "TBD"}</p>
@@ -46,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     </div>
                 `;
 
-        prizesContainer.appendChild(prizeCard);
+        otherPrizesContainer.appendChild(prizeCard);
       });
 
     document.getElementById(

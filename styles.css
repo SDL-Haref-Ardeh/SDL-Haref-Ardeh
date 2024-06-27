@@ -1,8 +1,14 @@
 body {
-  margin-top: 5rem;
-  background-color: #f8f9fa;
-  font-family: "Times New Roman", Times, serif;
+  margin-top: 7rem;
+  background-color: white;
+  /* background-image: url(./assets/SDL_Logo.jpg); */
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: black;
 }
+
 .navbar-brand img {
   max-height: 40px;
   width: auto;
@@ -10,11 +16,19 @@ body {
 
 h1 {
   margin-bottom: 30px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .card {
   margin: 15px 0;
   transition: transform 0.2s;
+  background-color: white;
+  color: black;
+  height: auto;
 }
 
 .card:hover {
@@ -22,8 +36,8 @@ h1 {
 }
 
 .card-img-top {
-  height: auto;
-  max-height: 300px;
+  height: 100%;
+  max-height: 200px;
   object-fit: contain;
 }
 
@@ -34,4 +48,17 @@ h1 {
   padding: 10px 20px;
   cursor: pointer;
   transition: background-color 0.2s;
+}
+
+@media (max-width: 576px) {
+  #other-prizes-container .col-12 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .card-img-top {
+    height: 10%;
+    max-height: 200px;
+    object-fit: contain;
+    padding: 1rem;
+  }
 }
