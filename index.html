@@ -47,9 +47,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#about">Contact</a>
                     </li>
-                    <!-- <li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="#reservation">Reservation</a>
-                    </li> -->
+                    </li>
                 </ul>
             </div>
         </nav>
@@ -66,7 +66,7 @@
         <div class="row" id="prizes">
             <div class="col-md-12">
                 <div class="text-center">
-                    <h3 id="prizes-title">Tombola Prizes</h3>
+                    <h1 id="prizes-title">Tombola Prizes</h1>
                 </div>
                 <div class="row" id="featured-prizes-container">
                     <!-- Featured Prizes -->
@@ -77,46 +77,30 @@
             </div>
         </div>
 
+        <div class="row mt-5" id="reservation">
+            <div class="col-md-12">
+                <div class="text-center">
+                    <h1>Reserve a Soap Soccer Match</h1>
+                </div>
+                <!-- Calendly inline widget begin -->
+                <div class="calendly-inline-widget" data-url="https://calendly.com/sdl-haref-ardeh/10min"
+                    style="min-width:320px;height:700px;"></div>
+                <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"
+                    async></script>
+                <!-- Calendly inline widget end -->
+            </div>
+        </div>
+
         <div class="row mt-5" id="flyers">
             <div class="col-md-12">
                 <div class="text-center">
-                    <h3>Flyers</h3>
+                    <h1>Flyers</h1>
                 </div>
                 <div class="row mt-3" id="flyers-container">
                     <!-- Flyers -->
                 </div>
             </div>
         </div>
-<!-- 
-        <div class="row mt-5" id="reservation">
-            <div class="col-md-12">
-                <div class="text-center">
-                    <h3>Reserve a Soap Soccer Match</h3>
-                </div>
-                <form id="reservation-form">
-                    <div class="form-group">
-                        <label for="time-slot">Select Time Slot</label>
-                        <select class="form-control" id="time-slot" required>
-                            <option value="" disabled selected>Select a time slot</option>
-                        </select>
-                    </div>
-                    <div class="form-group">
-                        <label for="full-name">Full Name</label>
-                        <input type="text" class="form-control" id="full-name" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="phone-number">Phone Number</label>
-                        <input type="tel" class="form-control" id="phone-number" required>
-                    </div>
-                    <div class="form-group">
-                        <label for="number-of-players">Number of Players</label>
-                        <input type="number" class="form-control" id="number-of-players" min="1" max="10" required>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Reserve</button>
-                </form>
-                <div id="reservation-feedback" class="mt-3"></div>
-            </div>
-        </div> -->
     </div>
 
     <footer class="bg-dark text-white mt-5" id="about">
