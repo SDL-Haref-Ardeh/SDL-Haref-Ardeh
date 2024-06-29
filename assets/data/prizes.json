@@ -866,5 +866,15 @@
         "Require Voucher": "Yes",
         "Prize": "Discount on All Jams, Vinegars and Frozen Food",
         "Logo": "khales.jpg"
+    },
+    {
+        "ID": 86,
+        "Name": "Spicy",
+        "G/V": "G",
+        "Number": 4,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "22kg unclebens rice",
+        "Logo": "spicy.jpg"
     }
 ]
