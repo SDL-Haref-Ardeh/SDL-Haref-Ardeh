@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
                         <div class="card-body">
                             <h5 class="card-title">${prize.Name}</h5>
                             <p class="card-text">${prize.Prize || "TBD"}</p>
-                            <a href="https://api.whatsapp.com/send/?phone=96181685499&text=Hello+I+want+to+buy+a+tombola+ticket&type=phone_number&app_absent=0" class="btn buy-ticket-btn">Buy Tombola For Only 100,000L.L</a>
                         </div>
                     </div>
                 `;
@@ -46,7 +45,6 @@ document.addEventListener("DOMContentLoaded", function () {
                         <div class="card-body">
                             <h5 class="card-title">${prize.Name}</h5>
                             <p class="card-text">${prize.Prize || "TBD"}</p>
-                            <a href="https://api.whatsapp.com/send/?phone=96181685499&text=Hello+I+want+to+buy+a+tombola+ticket&type=phone_number&app_absent=0" class="btn buy-ticket-btn">Buy Tombola For Only 100,000L.L</a>
                         </div>
                     </div>
                 `;
