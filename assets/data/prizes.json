@@ -916,5 +916,15 @@
         "Require Voucher": "YES",
         "Prize": "2 gelish and 2 makeup sessions",
         "Logo": "Alwein.jpg"
+    },
+    {
+        "ID": 92,
+        "Name": "Mountajet-Amto",
+        "G/V": "G",
+        "Number": 3,
+        "Class": "C",
+        "Require Voucher": "No",
+        "Prize": "3 Gifts",
+        "Logo": "Mountajet-Amto.jpg"
     }
 ]
