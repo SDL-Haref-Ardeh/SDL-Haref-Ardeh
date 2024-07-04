@@ -868,7 +868,7 @@
         "Logo": "khales.jpg"
     },
     {
-        "ID": 86,
+        "ID": 87,
         "Name": "Spicy",
         "G/V": "G",
         "Number": 4,
@@ -878,7 +878,7 @@
         "Logo": "spicy.jpg"
     },
     {
-        "ID": 86,
+        "ID": 88,
         "Name": "Hani Khalaf",
         "G/V": "C",
         "Number": 4,
@@ -886,5 +886,35 @@
         "Require Voucher": "No",
         "Prize": "4 sessions",
         "Logo": "hani-khalaf.png"
+    },
+    {
+        "ID": 89,
+        "Name": "Liquid PUB",
+        "G/V": "V",
+        "Number": 1,
+        "Class": "B",
+        "Require Voucher": "YES",
+        "Prize": "Entrance to party for 2 people",
+        "Logo": "liquid.jpg"
+    },
+    {
+        "ID": 90,
+        "Name": "Hachem Condor.Trd.Co",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "YES",
+        "Prize": "Car gadgets x2",
+        "Logo": "Hachem.jpg"
+    },
+    {
+        "ID": 91,
+        "Name": "Alwein",
+        "G/V": "V",
+        "Number": 2,
+        "Class": "C",
+        "Require Voucher": "YES",
+        "Prize": "2 gelish and 2 makeup sessions",
+        "Logo": "Alwein.jpg"
     }
 ]
